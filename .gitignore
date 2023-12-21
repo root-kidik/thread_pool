@@ -1,0 +1,12 @@
+.cache/
+.pytest_cache/
+__pycache__/
+.idea/
+.vs/
+.vscode/
+build*/
+cmake-build-*/
+CMakeUserPresets.json
+compile_commands.json
+.DS_Store
+proto/
